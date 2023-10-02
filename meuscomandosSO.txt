@@ -1,0 +1,6 @@
+cd <caminho>- muda de pasta
+cd .. - volta uma pasta
+dir - visualiza os arquivos e pastas de uma pasta
+seta cima/baixo - ultimos comandoss executados
+tab com parte do nome da pasta - faz autocomplete
+git init -> git add -> git commit -> git push
